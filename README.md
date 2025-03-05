@@ -24,6 +24,8 @@ View your BMI result and category.
 ## 📊 BMI Categories
 BMI Value	Category
 < 18.5	Underweight
+
+
 18.5 - 24.9	Normal
 25 - 29.9	Overweight
 ≥ 30	Obese
@@ -33,4 +35,5 @@ Input (kg/m)	  BMI	Category
 52 kg, 1.64 m	  19.3	Normal
 80 kg, 1.70 m	  27.7	Overweight
 
-![BMI Calculator Screenshot](images/screenshot.png)
+![image](https://github.com/user-attachments/assets/1fa888e0-e789-4396-8447-fa26a2097f29)
+
